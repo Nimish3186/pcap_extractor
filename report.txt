@@ -1,0 +1,185 @@
+
+[Sensitive Data Detected]POST / HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Content-Length: 29
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="143", "Chromium";v="143", "Not A(Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Linux"
+Origin: http://localhost:8000
+Content-Type: application/x-www-form-urlencoded
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8000/
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+username=sample&password=1234
+[Sensitive Data Detected]POST / HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Content-Length: 29
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="143", "Chromium";v="143", "Not A(Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Linux"
+Origin: http://localhost:8000
+Content-Type: application/x-www-form-urlencoded
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8000/
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+username=sample&password=1234
+[Sensitive Data Detected]
+            <html>
+            <body>
+                <h2>Login Form</h2>
+                <form method="POST">
+                    Username: <input type="text" name="username"><br>
+                    Password: <input type="password" name="password"><br>
+                    <input type="submit">
+                </form>
+            </body>
+            </html>
+        
+[Sensitive Data Detected]
+            <html>
+            <body>
+                <h2>Login Form</h2>
+                <form method="POST">
+                    Username: <input type="text" name="username"><br>
+                    Password: <input type="password" name="password"><br>
+                    <input type="submit">
+                </form>
+            </body>
+            </html>
+        
+[Sensitive Data Detected]
+            <html>
+            <body>
+                <h2>Login Form</h2>
+                <form method="POST">
+                    Username: <input type="text" name="username"><br>
+                    Password: <input type="password" name="password"><br>
+                    <input type="submit">
+                </form>
+            </body>
+            </html>
+        
+[Sensitive Data Detected]
+            <html>
+            <body>
+                <h2>Login Form</h2>
+                <form method="POST">
+                    Username: <input type="text" name="username"><br>
+                    Password: <input type="password" name="password"><br>
+                    <input type="submit">
+                </form>
+            </body>
+            </html>
+        
+[Sensitive Data Detected]
+            <html>
+            <body>
+                <h2>Login Form</h2>
+                <form method="POST">
+                    Username: <input type="text" name="username"><br>
+                    Password: <input type="password" name="password"><br>
+                    <input type="submit">
+                </form>
+            </body>
+            </html>
+        
+[Sensitive Data Detected]
+            <html>
+            <body>
+                <h2>Login Form</h2>
+                <form method="POST">
+                    Username: <input type="text" name="username"><br>
+                    Password: <input type="password" name="password"><br>
+                    <input type="submit">
+                </form>
+            </body>
+            </html>
+        
+[Sensitive Data Detected]POST / HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Content-Length: 51
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="143", "Chromium";v="143", "Not A(Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Linux"
+Origin: http://localhost:8000
+Content-Type: application/x-www-form-urlencoded
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8000/
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+username=Nimish3186&password=theWorldIsApeiceOfShit
+[Sensitive Data Detected]POST / HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Content-Length: 51
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="143", "Chromium";v="143", "Not A(Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Linux"
+Origin: http://localhost:8000
+Content-Type: application/x-www-form-urlencoded
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8000/
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+username=Nimish3186&password=theWorldIsApeiceOfShit
+[Sensitive Data Detected]
+            <html>
+            <body>
+                <h2>Login Form</h2>
+                <form method="POST">
+                    Username: <input type="text" name="username"><br>
+                    Password: <input type="password" name="password"><br>
+                    <input type="submit">
+                </form>
+            </body>
+            </html>
+        
+[Sensitive Data Detected]
+            <html>
+            <body>
+                <h2>Login Form</h2>
+                <form method="POST">
+                    Username: <input type="text" name="username"><br>
+                    Password: <input type="password" name="password"><br>
+                    <input type="submit">
+                </form>
+            </body>
+            </html>
+        
