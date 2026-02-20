@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Login Form</title>
+    <title>Login</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -17,41 +17,20 @@
             background: white;
             padding: 30px;
             border-radius: 8px;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
             width: 320px;
         }
 
         h2 {
             text-align: center;
-            margin-bottom: 20px;
         }
 
-        .form-group {
-            margin-bottom: 15px;
-        }
-
-        label {
-            display: block;
-            font-size: 14px;
-            margin-bottom: 5px;
-        }
-
-        input[type="email"],
-        input[type="password"] {
+        input {
             width: 100%;
             padding: 8px;
-            border: 1px solid #ccc;
+            margin: 10px 0;
             border-radius: 4px;
-        }
-
-        .remember {
-            display: flex;
-            align-items: center;
-            font-size: 14px;
-        }
-
-        .remember input {
-            margin-right: 5px;
+            border: 1px solid #ccc;
         }
 
         button {
@@ -62,22 +41,10 @@
             color: white;
             border-radius: 4px;
             cursor: pointer;
-            font-size: 16px;
         }
 
         button:hover {
             background-color: #0056b3;
-        }
-
-        .footer-text {
-            text-align: center;
-            margin-top: 15px;
-            font-size: 13px;
-        }
-
-        .footer-text a {
-            text-decoration: none;
-            color: #007bff;
         }
     </style>
 </head>
@@ -85,29 +52,12 @@
 
 <div class="login-container">
     <h2>Login</h2>
-    <form action="/login" method="POST">
-        
-        <div class="form-group">
-            <label for="email">Email</label>
-            <input type="email" id="email" name="email" required>
-        </div>
-
-        <div class="form-group">
-            <label for="password">Password</label>
-            <input type="password" id="password" name="password" required>
-        </div>
-
-        <div class="remember">
-            <input type="checkbox" id="remember" name="remember">
-            <label for="remember">Remember me</label>
-        </div>
-
+    
+    <!-- Redirects to success.html -->
+    <form action="success.html">
+        <input type="email" placeholder="Enter Email" required>
+        <input type="password" placeholder="Enter Password" required>
         <button type="submit">Login</button>
-
-        <div class="footer-text">
-            <p>Don't have an account? <a href="#">Sign up</a></p>
-        </div>
-
     </form>
 </div>
 
